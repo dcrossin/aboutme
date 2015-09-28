@@ -1,0 +1,16 @@
+h1 p{
+	color:red;
+	text-decoration:underline;
+}
+
+::selection {
+	background-color: red;
+}
+
+body {
+	text-align:center;
+	margin: 0 0 5em 5em;
+	background-color :black;
+	background-image:url("http://chemicalengineeringnews.org/wp-content/uploads/2013/02/top-50-funny-science-pictures07.jpg");
+}
+
